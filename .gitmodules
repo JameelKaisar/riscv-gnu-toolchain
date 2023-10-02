@@ -1,6 +1,6 @@
 [submodule "binutils"]
 	path = binutils
-	url = https://sourceware.org/git/binutils-gdb.git
+	url = https://github.com/JameelKaisar/binutils-gdb.git
 	branch = binutils-2_40-branch
 [submodule "gcc"]
 	path = gcc
